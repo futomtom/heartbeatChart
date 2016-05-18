@@ -1,1 +1,1 @@
-# heartbeatChart
+<img src="heartbeat.gif">
